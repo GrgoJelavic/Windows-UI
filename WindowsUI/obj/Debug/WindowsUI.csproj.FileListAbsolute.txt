@@ -1,0 +1,16 @@
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\bin\Debug\WindowsUI.exe.config
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.csprojAssemblyReference.cache
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.Dashboard.resources
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.pdb
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.BlackTransparentBackground.resources
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.PopupMessageBox.resources
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.AboutControl.resources
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.Page1.resources
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.Page2.resources
+C:\Users\9r9o\source\repos\WindowsUI\WindowsUI\obj\Debug\WindowsUI.Page3.resources
